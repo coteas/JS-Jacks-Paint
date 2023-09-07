@@ -50,29 +50,30 @@ function getProductInfo(paintColor) {
             updatePrice(colorName, price)
             break;   
         case 'pn4':
-        price = '$4.99'
-        colorName = 'Solid Black'
-        updatePrice(colorName, price)
+            price = '$13.42'
+            colorName = 'Solid Red'
+            updatePrice(colorName, price)
         break;   
         case 'pn5':
-            price = '$8.22'
-            colorName = 'Solid Cyan'
+            price = '$21.98'
+            colorName = 'Solid White'
             updatePrice(colorName, price)
         break;   
         case 'pn6':
-            price = '$11.99'
-        colorName = 'Solid Purple'
+            price = '$4.99'
+        colorName = 'Solid Black'
         updatePrice(colorName, price)
             break;   
         case 'pn7':
-            price = '$13.42'
-        colorName = 'Solid Red'
-        updatePrice(colorName, price)
+            price = '$8.22'
+            colorName = 'Solid Cyan'
+            updatePrice(colorName, price)
             break;   
         case 'pn8':
-            price = '$21.98'
-        colorName = 'Solid White'
-        updatePrice(colorName, price)
+            price = '$11.99'
+            colorName = 'Solid Purple'
+            updatePrice(colorName, price)
+        
             break;   
         case 'pn9':
             price = '$14.99'
